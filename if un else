@@ -1,0 +1,54 @@
+#include<iostream>
+//using namespace std;
+//int main() {
+//	//int age = 12;
+//
+//	//if (age >= 0) { cout << "OK" << endl; }
+//	//else cout << "unrealistic age" << endl;
+//
+//	//cout << "Exit";
+//
+//	//int catage, dogsage;
+//	//cin >> catage >> dogsage;
+//
+//	//if (catage > 0 && catage <= 25) { cout << "OK cats ages" << endl; }
+//	//else cout << "urealistic age" << endl;
+//
+//	//if (dogsage > 0 && dogsage <= 30) { cout << "OK cats ages" << endl; }
+//	//else cout << "unrealitic age" << endl;
+//
+//	//cout << "Exit";
+//
+//
+//	///*int note, age, high;
+//	//cin >> note >> age >> high;
+//
+//	//if (note > 0 && note <= 10) { cout << "OK note" << endl; }
+//	//else cout << "unrealitic note" << endl;
+//
+//	//if (age > 7 && age <= 20) { cout << "OK age" << endl; }
+//	//else cout << "unrealitic age" << endl;
+//
+//	//if (high > 110 && high <= 220) { cout << "OK high" << endl; }
+//	//else cout << "unrealitic high" << endl;
+//
+//	//cout << "Exit";*/
+//
+//	//string p = "Sal0", pin, age;
+//	//cin >>pin;
+//	//if (p == pin) { cout << "OK "; cout << age; }
+//	//else cout << "wrong p ";
+//
+//	//cout << "Exit";
+//
+//	//string p = "Sal0", log= "Max", age= "16",p1,log1;
+//	//cin >> log1;
+//	//cin >> p1;
+//	//if (p == p1&&log==log1) { cout << " OK "; cout << age; }
+//	//else cout << " worong p ";
+//
+//	//cout << "Exit";
+//
+//
+//
+//}

@@ -1,0 +1,88 @@
+#include <vector>
+#include <iostream>
+using namespace std;
+int main()
+//{
+//
+//	vector<int> num{ 1,2,3,1,2 };
+//	cout << num[0] <<" "<< num[1]<<" "<< num[2]<<" "<< num[3]<<" "<< num[4];
+//	if (num[0] == 1)cout << "1.element has a one" << endl;
+//	if (num[1] == 1)cout << "2.element has a one" << endl;
+//	if (num[2] == 1)cout << "3.element has a one" << endl;
+//	if (num[3] == 1)cout << "4.element has a one" << endl;
+//
+//	if (num[0] == 4)cout << "1.element has a four" << endl;
+//	if (num[1] == 4)cout << "2.element has a four" << endl;
+//	if (num[2] == 4)cout << "3.element has a four" << endl;
+//	if (num[3] == 4)cout << "4.element has a four" << endl;
+//
+//}
+//
+
+//{
+//	vector <string> country{ "USA","UK","Chine","India","Canada","Australia"};
+//	vector <string> code{ "+1","+44","+86","+91","+1","+61"};
+//	string num,cod;
+//	cout << "1.tel num, 2.kods" << endl;
+//	cin >> num >> cod;
+//	if (code[0] == cod)cout << country[0];
+//	if (code[1] == cod)cout << country[1];
+//	if (code[2] == cod)cout << country[2];
+//	if (code[3] == cod)cout << country[3];
+//	if (code[4] == cod)cout << country[4];
+//	if (code[5] == cod)cout << country[5];
+//	cout << cod << num;
+//}
+
+//{
+//	vector <int> num{ 3,8,7,4 };
+//	vector <string> name{ "Anna","Antons","Vlads","Artemijs" };
+//	cout << "atzime" << endl;
+//	int atb;
+//	int atz;
+//	cin >> atz;
+//	if (num[0] == atz)cout << name[0];
+//	if (num[1] == atz)cout << name[1];
+//	if (num[2] == atz)cout << name[2];
+//	if (num[3] == atz)cout << name[3];
+//	if (num[4] == atz)cout << name[4];
+//
+//	if (num[0] != atz && num[1] != atz && num[2] != atz && num[3] != atz && num[4] != atz)cout << "Nav tadu elementu";
+//	cout << atz;
+//
+//}
+//
+//{
+//	vector <string> svetki{"Lacplesa diena","Martiņa dienas","Martiņdiena Turaida"};
+//	vector <string> dat{"11.nov.","12.nov.","11.nov."};
+//	string atb;
+//	cout << "Ja vai Ne" << endl;
+//	cin >> atb;
+//	if (atb == "Ja")cout << svetki[0] << dat[0] << endl << svetki[1] << dat[1] << endl << svetki[2] << dat[2] << endl << svetki[3] << dat[3] << endl;
+//	else cout << "GoodBye!" << endl;
+//	
+//
+//
+//}
+
+//{
+//	vector<int> time{ 2,4,6,8,10 };
+//	int a=0;
+//	if (time[0]> 0)a++;
+//	if (time[1]> 0)a++;
+//	if (time[2]> 0)a++;
+//	if (time[3]> 0)a++;
+//	if (time[4]> 0)a++;
+//	cout << a << endl;
+//	
+//	
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//}
